@@ -1,0 +1,7 @@
+{
+  "signIn.title": "Sign in to your account",
+  "signIn.credentials.error": "Username or email is incorrect",
+  "signIn.input.placeholder.email": "Email address",
+  "signIn.input.placeholder.password": "Password",
+  "signIn.button.signIn": "Sign in"
+}

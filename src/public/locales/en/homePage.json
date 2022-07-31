@@ -1,0 +1,11 @@
+{
+  "homePage.title": "Who will win?",
+  "homePage.description": "Play the game and try your luck",
+  "homePage.bet.button.left": "Left",
+  "homePage.bet.button.right": "Right",
+  "homePage.game.status.win": "You won {{ amount }}$",
+  "homePage.game.status.lost": "You've lost",
+  "homePage.game.status.draw": "Draw",
+  "homePage.button.playAgain": "Play again",
+  "homePage.gameStatus": "Game status"
+}

@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# Bridge assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To login use following credentials:
+* login - admin
+* password - 123456
+
+For any others you'll see an error
+
+The app contains 2 pages - main ("/") and login ("/login")
+
+Game rules:
+* Chose any card and see the result
+* Ace is equal to 1, so the biggest card in King and the smaller is Ace
+* In case of win you'll earn 20$
+* In case of lose you'll lose 10$
+* You CANNOT change bet amount
 
 ## Available Scripts
 
@@ -39,8 +52,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).

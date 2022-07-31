@@ -1,0 +1,7 @@
+{
+  "signIn.title": "Войдите в свой аккаунт",
+  "signIn.credentials.error": "Имя пользователя или пароль введены не верно",
+  "signIn.input.placeholder.email": "Электронный адрес",
+  "signIn.input.placeholder.password": "Пароль",
+  "signIn.button.signIn": "Войти"
+}

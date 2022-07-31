@@ -1,0 +1,11 @@
+{
+  "homePage.title": "Кто выйграет?",
+  "homePage.description": "Сыграй в игру и испытай удачу",
+  "homePage.bet.button.left": "Слева",
+  "homePage.bet.button.right": "Справа",
+  "homePage.game.status.win": "Вы выйграли {{ amount }}$",
+  "homePage.game.status.lost": "Вы проиграли",
+  "homePage.game.status.draw": "Ничья",
+  "homePage.button.playAgain": "Сыграть ещё",
+  "homePage.gameStatus": "Статус"
+}
